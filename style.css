@@ -24,13 +24,6 @@
 }
 
 body {
-  /* background-image: url(./assets/bg-mobile.jpg);
-  background-repeat: no-repeat;
-  background-position: top center;
-  background-size: cover; 
-
-  shorthand for background: color image repeat positionY positionX/size
-  */
   background: var(--bg-url) no-repeat top center/cover;
 }
 
@@ -43,8 +36,6 @@ body * {
   width: 360px;
   margin: 56px auto 0px;
   padding: 0 24px;
-
-  /*no CSS a margin auto alinha no meio da largura*/
 }
 /*profile*/
 #profile {
